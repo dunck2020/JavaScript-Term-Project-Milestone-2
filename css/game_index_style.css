@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ravi+Prakash&family=Stick&display=swap');
+body{
+
+    font-size: 16pt;    
+    font-family: Verdana, sans-serif;
+    background-image: url("../media/gamerzone.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+
+}
+h1{
+    font-family: 'Stick', sans-serif;
+    font-size: 4.5em;
+    text-align: center;
+    font-weight: 900;
+    color:#92B6F5;
+    text-shadow: 5px 5px 10px aliceblue;
+}
+p{
+    font-family: 'Ravi Prakash', cursive;
+    text-align: center;
+}
+a{
+    font-size: 2em;
+    color:#D2F57A;
+    text-decoration: none;
+    text-shadow: 3px 3px 3px black;
+}
+a:hover{
+    color:#F5B5AB;
+}
+#readMe{
+    font-style: italic;
+    font-size: 1em;
+}
+#subHead{
+
+    font-size: 1.3em;
+    color: black;   
+    text-shadow: none; 
+}
+#footer{
+    float: right;
+    font-style: italic;
+    font-size: .8em;
+    color:#D2F57A;
+}
